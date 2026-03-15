@@ -4,11 +4,15 @@ h2{
     font-weight:700;
     text-align:center;
 }
+
+
 p{
     font-family:monospace;
     font-size:22;
     font-weight:500;
 }
+
+
 button{
     font-family:Arial;
     font-size:27px;
